@@ -4,5 +4,5 @@ class main
 public:
 	main();
 	~main();
-};
+};sss
 
